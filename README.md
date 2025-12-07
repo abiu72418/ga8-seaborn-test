@@ -1,2 +1,1 @@
-# ga8-seaborn-test
-Q5: Seaborn Visualization
+# Seaborn Visualization\n\nSubmitted by: test@example.com\n\nUse Manual Mode to download chart.py and chart.png.
